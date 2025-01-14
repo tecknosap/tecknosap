@@ -38,7 +38,7 @@ Automates Azure Monitor Activity Log Alerts and Action Groups using Terraform. T
 ## 📜 Certifications  
 - **Microsoft Certified**: Azure Security Engineer (AZ-500)  
 - **Microsoft Certified**: Azure Administrator (AZ-104)
-- - **Microsoft Certified**:  Azure Fundamentals (AZ-900)  
+- **Microsoft Certified**:  Azure Fundamentals (AZ-900)  
 
 ---
 
