@@ -1,68 +1,72 @@
 # Hi, I'm Mahad Ahmed 👋
 
-## Azure Cloud Engineer | Terraform | Azure DevOps | Cloud Security
+**☁️ Azure Cloud Engineer | ⚙️ DevOps Automation | 🌍 Community Advocate**  
 
-I’m an experienced **Azure Cloud Engineer**, specializing in **designing, deploying, and managing cloud solutions**. With a deep focus on **Azure services**, **Terraform**, **CI/CD pipelines**, and **cloud security**, I work to automate and optimize cloud environments, driving efficiency and scalability for businesses.
+I design and automate **scalable, secure cloud solutions** on **Azure**, ensuring efficiency and reliability. From **IaC with Terraform** to **Kubernetes orchestration** and **CI/CD automation**, my expertise helps enterprises **optimize workflows and enhance security**.  
 
----
-
-## 🚀 About Me
-
-- **Profession**: Azure Cloud Engineer
-- **Specialties**: Azure Engineering, Cloud Security, Terraform, Azure DevOps
-- **Goal**: To **optimize cloud infrastructure**, **enhance security**, and **reduce operational costs** using Azure-based solutions.
-- **Passion**: Solving business challenges through cloud technologies, ensuring security, scalability, and flexibility for the future.
+💡 **Cloud-native engineer with a DevOps mindset—automating the future, one pipeline at a time.**  
 
 ---
 
-## 💼 Skills & Technologies
+## 🔥 Core Expertise  
 
-### 🌐 **Cloud Engineering**
-- ☁️ **Azure**: Virtual Networks, Storage, Compute, Identity, Security, Governance
-- 🔐 **Cloud Security**: Microsoft Defender for Cloud, Azure Sentinel, Microsoft Entra ID, Key Vault, Azure Policies
-
-### ⚙️ **DevOps & Automation**
-- 🔧 **Infrastructure as Code (IaC)**: Terraform, Azure DevOps, CI/CD Pipelines
-- 🐳 **Containerization**: Docker, Kubernetes, Azure Kubernetes Service (AKS)
-
-### 🖥️ **Scripting & Programming**
-- 🐍 **Scripting**: Python, PowerShell, Bash, **Linux** (Shell scripting, System Administration)
-
-### 📊 **Monitoring & Analytics**
-- 📈 **Azure Monitoring**: Log Analytics, Application Insights, Azure Monitor, Alerts, Automation
+✔️ **Cloud Infrastructure & Networking** – Azure-based solutions, scalable architectures, security best practices  
+✔️ **DevOps & Automation** – CI/CD, Terraform, Kubernetes, Policy-as-Code, cloud security  
+✔️ **Mentorship & Advocacy** – Speaker, open-source contributor, mentor to aspiring engineers  
+✔️ **Performance Optimization** – Automation-driven improvements for high availability & efficiency  
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Key Projects  
 
-### 🌐 [**Azure Hub-and-Spoke Network with Terraform**](https://github.com/tecknosap/azure-enterprise-infra)
-Automated the deployment of an **Azure Hub-and-Spoke network** using **Terraform**. Configured **Hub VNet**, **Spoke VNets**, and **VNet Peering**. Integrated **Azure Firewall** and **Route Tables** for robust traffic management and enhanced security.
+### **Enterprise-Grade AKS Pipeline** – **CI/CD for Kubernetes**  
+🔗 [GitHub Repo](https://github.com/tecknosap/enterprise-grade-aks-pipeline/tree/main/teckno)  
+💡 **Tech:** Azure Kubernetes Service (AKS), Terraform, Azure DevOps, Docker, Application Gateway  
+📈 **Impact:** Cut deployment time by **60%**, designed **resilient infrastructure** with Terraform, secured ingress with Azure App Gateway  
 
-### 🖥️ [**3-Tier Web App Deployment on Azure with Terraform & CI/CD**](https://github.com/tecknosap/azure-devops-ci-cd)
-Streamlined the deployment of a **3-tier web app** using **Terraform** and **CI/CD pipelines**. The architecture includes **front-end** (App Services), **business logic** (SQL Databases, Key Vault), and **data tier** (Log Analytics, Application Insights). Optimized for **security** and **cost-efficiency**.
+### **Azure Hub-Spoke Network** – **Optimized Multi-VNet Design**  
+🔗 [GitHub Repo](https://github.com/tecknosap/Azure-Hub-Spoke-Network)  
+💡 **Tech:** Azure Virtual Network (VNet), Firewall, Route Tables, Peering  
+📈 **Impact:** **40% threat exposure reduction** with Azure Firewall, enhanced network connectivity & latency optimization  
 
-### 🌍 [**Scalable & Secure Cloud Infrastructure on Azure**](https://github.com/tecknosap/azure-vmss-lb-ci-cd-pipeline)
-Automated the deployment of a **scalable cloud infrastructure** using **Terraform** and **Azure DevOps**. Implemented **multi-region deployment**, **autoscaling**, **load balancing**, and **real-time monitoring** for high availability and security.
+### **Multi-Region Autoscaling Pipeline** – **High Availability at Scale**  
+🔗 [GitHub Repo](https://github.com/tecknosap/azure-vmss-lb-ci-cd-pipeline)  
+💡 **Tech:** Azure VM Scale Sets, Load Balancer, Terraform, NSGs, Azure DevOps Pipelines  
+📈 **Impact:** Ensured **99.99% uptime SLA**, cut deployment time by **50%**, automated provisioning  
 
-### 🗄️ [**Azure Storage Service Endpoint with Terraform**](https://github.com/tecknosap/Azure-storage-service-endpoint)
-Automated the deployment of **Azure storage infrastructure** using **Terraform**. Focused on **Storage Service Endpoints**, configuring **VNet**, **VM**, **Key Vault**, **Bastion Host**, and **Storage Account** with best security practices.
+### **Secure 3-Tier Web App Deployment** – **End-to-End Cloud Security**  
+🔗 [GitHub Repo](https://github.com/tecknosap/azure-devops-ci-cd)  
+💡 **Tech:** Azure App Service, Azure SQL, Application Insights, Terraform, Key Vault  
+📈 **Impact:** Reduced manual errors by **35%**, strengthened security using Key Vault, improved monitoring with Application Insights  
 
----
-
-## 📜 Certifications
-
-- **Microsoft Certified**: Azure Security Engineer (AZ-500)
-- **Microsoft Certified**: Azure Administrator (AZ-104)
-- **Microsoft Certified**: Azure Fundamentals (AZ-900)
-
----
-
-## 📫 Let's Connect!
-
-- **LinkedIn**: [Mahad Ahmed](https://linkedin.com/in/mahadahmed05)
-
-Let’s discuss how we can work together to build impactful cloud solutions or explore exciting cloud projects!
+### **Zero-Trust Storage & VM Security** – **No Public IP Exposure**  
+🔗 [GitHub Repo](https://github.com/tecknosap/Azure-storage-service-endpoint)  
+💡 **Tech:** Azure Bastion, Windows VM, Storage Accounts, Service Endpoints, Terraform  
+📈 **Impact:** **Zero-trust access**, eliminated public IP exposure, secured storage with private endpoints  
 
 ---
 
-Thanks for visiting my profile! Let’s build effective and scalable cloud solutions together! 😊
+## 🏆 Certifications & Achievements  
+
+✔️ **Microsoft Certified: Azure Security Engineer (AZ-500)**  
+✔️ **Microsoft Certified: Azure Administrator (AZ-104)**  
+✔️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+<!-- 🏆 **Recognized Open-Source Contributor**  
+🗣️ **Speaker & Mentor in DevOps & Cloud Bootcamps**  -->
+
+---
+
+## 🔗 Connect & Collaborate  
+
+📌 I share insights on **Azure DevOps, cloud automation, and security**—let’s connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahadahmed05)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/tecknosap)  
+📧 **Email:** tecknosap@gmail.com  
+
+---
+
+## 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecknosap&layout=compact" width="500px"/>  
+
