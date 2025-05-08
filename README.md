@@ -10,10 +10,10 @@ I design and automate **scalable, secure cloud solutions** on **Azure**, ensurin
 
 ## 🔥 Core Expertise  
 
-✔️ **Cloud Infrastructure & Networking** – Azure-based solutions, scalable architectures, security best practices  
-✔️ **DevOps & Automation** – CI/CD, Terraform, Kubernetes, Policy-as-Code, cloud security  
-✔️ **Mentorship & Advocacy** – Speaker, open-source contributor, mentor to aspiring engineers  
-✔️ **Performance Optimization** – Automation-driven improvements for high availability & efficiency  
+✔️ Cloud Architecture & Infrastructure – Designing scalable, secure Azure solutions with best practices in networking, identity, and governance     
+✔️ DevOps & Automation – Implementing CI/CD pipelines, IaC (Terraform, Bicep, ARM), Kubernetes, and policy-driven automation    
+✔️ Security & Compliance – Microsoft Defender for Cloud, Azure Sentinel, Microsoft Entra ID, Key Vault, Azure Policies    
+✔️ Monitoring & Optimization – Advanced skills in Azure Monitor, Log Analytics, and cost management      
 
 ---
 
