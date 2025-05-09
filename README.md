@@ -6,6 +6,10 @@ I design and automate **scalable, secure cloud solutions** on **Azure**, ensurin
 
 💡 **Cloud-native engineer with a DevOps mindset—automating the future, one pipeline at a time.**  
 
+Beyond automating infrastructure, I actively share my knowledge through blog posts, workshops, and open-source contributions,helping others navigate cloud technologies with confidence. I’m committed to continuous learning and stay ahead of industry trends to drive innovation and solve business challenges effectively.
+Outside of work, I’m a tech enthusiast with a strong interest in emerging tools and technologies. I thrive in collaborative environments and enjoy working with diverse teams to develop impactful solutions that drive real results.
+
+
 ---
 
 ## 🔥 Core Expertise  
@@ -19,30 +23,30 @@ I design and automate **scalable, secure cloud solutions** on **Azure**, ensurin
 
 ## 🛠️ Key Projects  
 
-### **Enterprise-Grade AKS Pipeline** – **CI/CD for Kubernetes**  
+**Enterprise-Grade AKS Pipeline – CI/CD for Kubernetes**  
 🔗 [GitHub Repo](https://github.com/tecknosap/enterprise-grade-aks-pipeline/tree/main/teckno)  
-💡 **Tech:** Azure Kubernetes Service (AKS), Terraform, Azure DevOps, Docker, Application Gateway  
-📈 **Impact:** Cut deployment time by **60%**, designed **resilient infrastructure** with Terraform, secured ingress with Azure App Gateway  
+💡 **Tech**: AKS, Terraform, Azure DevOps, Docker, Application Gateway  
+📈 **Impact**: Reduced deployment time by **60%**, enhancing release efficiency and infrastructure resilience.
 
-### **Azure Hub-Spoke Network** – **Optimized Multi-VNet Design**  
+**Azure Hub-Spoke Network – Multi-VNet Design**  
 🔗 [GitHub Repo](https://github.com/tecknosap/Azure-Hub-Spoke-Network)  
-💡 **Tech:** Azure Virtual Network (VNet), Firewall, Route Tables, Peering  
-📈 **Impact:** **40% threat exposure reduction** with Azure Firewall, enhanced network connectivity & latency optimization  
+💡 **Tech**: VNet, Firewall, Route Tables, Peering  
+📈 **Impact**: Decreased security risks by **40%** and improved network performance and latency.
 
-### **Multi-Region Autoscaling Pipeline** – **High Availability at Scale**  
+**Multi-Region Autoscaling Pipeline – High Availability**  
 🔗 [GitHub Repo](https://github.com/tecknosap/azure-vmss-lb-ci-cd-pipeline)  
-💡 **Tech:** Azure VM Scale Sets, Load Balancer, Terraform, NSGs, Azure DevOps Pipelines  
-📈 **Impact:** Ensured **99.99% uptime SLA**, cut deployment time by **50%**, automated provisioning  
+💡 **Tech**: VM Scale Sets, Load Balancer, Terraform, NSGs, Azure DevOps Pipelines  
+📈 **Impact**: Delivered **99.99% uptime SLA**, automated provisioning, and reduced deployment time by **50%**.
 
-### **Secure 3-Tier Web App Deployment** – **End-to-End Cloud Security**  
+**Secure 3-Tier Web App Deployment – Cloud Security**  
 🔗 [GitHub Repo](https://github.com/tecknosap/azure-devops-ci-cd)  
-💡 **Tech:** Azure App Service, Azure SQL, Application Insights, Terraform, Key Vault  
-📈 **Impact:** Reduced manual errors by **35%**, strengthened security using Key Vault, improved monitoring with Application Insights  
+💡 **Tech**: App Service, Azure SQL, Application Insights, Terraform, Key Vault  
+📈 **Impact**: Cut manual errors by **35%**, strengthened security using Key Vault, and enhanced monitoring.
 
-### **Zero-Trust Storage & VM Security** – **No Public IP Exposure**  
+**Zero-Trust Storage & VM Security – No Public IP Exposure**  
 🔗 [GitHub Repo](https://github.com/tecknosap/Azure-storage-service-endpoint)  
-💡 **Tech:** Azure Bastion, Windows VM, Storage Accounts, Service Endpoints, Terraform  
-📈 **Impact:** **Zero-trust access**, eliminated public IP exposure, secured storage with private endpoints  
+💡 **Tech**: Bastion, Windows VM, Storage Accounts, Service Endpoints, Terraform  
+📈 **Impact**: Removed public IP exposure, secured storage with private endpoints, and enforced a zero-trust model.
 
 ---
 
