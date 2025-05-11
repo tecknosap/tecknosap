@@ -14,10 +14,10 @@ Outside of work, I’m a tech enthusiast with a strong interest in emerging tool
 
 ## 🔥 Core Expertise  
 
-✔️ Cloud Architecture & Infrastructure – Designing scalable, secure Azure solutions with best practices in networking, identity, and governance     
-✔️ DevOps & Automation – Implementing CI/CD pipelines, IaC (Terraform, Bicep, ARM), Kubernetes, and policy-driven automation    
-✔️ Security & Compliance – Microsoft Defender for Cloud, Azure Sentinel, Microsoft Entra ID, Key Vault, Azure Policies    
-✔️ Monitoring & Optimization – Advanced skills in Azure Monitor, Log Analytics, and cost management      
+1️⃣ Cloud Architecture & Infrastructure – Designing scalable, secure Azure solutions with best practices in networking, identity, and governance     
+2️⃣ DevOps & Automation – Implementing CI/CD pipelines, IaC (Terraform, Bicep, ARM), Kubernetes, and policy-driven automation    
+3️⃣  Security & Compliance – Microsoft Defender for Cloud, Azure Sentinel, Microsoft Entra ID, Key Vault, Azure Policies    
+4️⃣  Monitoring & Optimization – Advanced skills in Azure Monitor, Log Analytics, and cost management      
 
 ---
 
