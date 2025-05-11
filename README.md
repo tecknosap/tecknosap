@@ -108,3 +108,9 @@ Outside of work, I’m a tech enthusiast with a strong interest in emerging tool
 ## 📊 GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecknosap&layout=compact" width="500px"/>
+
+
+
+<!-- ![](https://komarev.com/ghpvc/?username=tecknosap) -->
+
+
