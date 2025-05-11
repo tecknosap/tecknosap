@@ -24,7 +24,7 @@ Outside of work, I’m a tech enthusiast with a strong interest in emerging tool
 ## 🛠️ Key Projects  
 
 **Enterprise-Grade AKS Pipeline – CI/CD for Kubernetes**  
-🔗 [GitHub Repo](https://github.com/tecknosap/enterprise-grade-aks-pipeline/tree/main/teckno)  
+🔗 [GitHub Repo](https://github.com/tecknosap/enterprise-grade-aks-pipeline)  
 💡 **Tech**: AKS, Terraform, Azure DevOps, Docker, Application Gateway  
 📈 **Impact**: Reduced deployment time by **60%**, enhancing release efficiency and infrastructure resilience.
 
