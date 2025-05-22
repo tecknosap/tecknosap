@@ -1,6 +1,6 @@
 # Hi, I'm Mahad Ahmed 👋
 
-**☁️ Azure Cloud Engineer | ⚙️ DevOps Automation | 🌍 Community Advocate**  
+**☁️ DevOps Engineer | ⚙️ DevOps Automation | 🌍 Community Advocate**  
 
 I design and automate **scalable, secure cloud solutions** on **Azure**, ensuring efficiency and reliability. From **IaC with Terraform** to **Kubernetes orchestration** and **CI/CD automation**, my expertise helps enterprises **optimize workflows and enhance security**.  
 
