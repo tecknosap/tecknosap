@@ -111,6 +111,6 @@ Outside of work, I’m a tech enthusiast with a strong interest in emerging tool
 
 
 
- ![](https://komarev.com/ghpvc/?username=tecknosap) -->
+ <!-- ![](https://komarev.com/ghpvc/?username=tecknosap) -->
 
 
