@@ -1,4 +1,4 @@
-# Hi, I'm Mahat Shirwa 👋
+# Hi, I'm Mahad Mohamed 👋
 
 **☁️ DevOps Engineer | ⚙️ DevOps Automation | 🌍 Community Advocate**  
 
