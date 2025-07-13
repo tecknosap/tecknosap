@@ -1,116 +1,36 @@
-# Hi, I'm Mahad Mohamed 👋
+### 💫 About Me  
+Hi 👋 I’m Mahad — DevOps & Cloud Engineer.
 
-**☁️ DevOps Engineer | ⚙️ DevOps Automation | 🌍 Community Advocate**  
+Thoughts, views, and opinions expressed on this page are solely my own and do not reflect those of my employers.
 
-I design and automate **scalable, secure cloud solutions** on **Azure**, ensuring efficiency and reliability. From **IaC with Terraform** to **Kubernetes orchestration** and **CI/CD automation**, my expertise helps enterprises **optimize workflows and enhance security**.  
+I automate infrastructure, optimise pipelines, and accelerate deployments with security and reliability at the core. Experienced in Azure and AWS, with hands-on skills in Terraform, Docker, Kubernetes, and cloud-native tools for scalable solutions.
 
-💡 **Cloud-native engineer with a DevOps mindset—automating the future, one pipeline at a time.**  
+Passionate about cloud technology, mentoring, and solving engineering challenges that drive real impact. 🧠  
+  
+---
 
-Beyond automating infrastructure, I actively share my knowledge through blog posts, workshops, and open-source contributions,helping others navigate cloud technologies with confidence. I’m committed to continuous learning and stay ahead of industry trends to drive innovation and solve business challenges effectively.
-Outside of work, I’m a tech enthusiast with a strong interest in emerging tools and technologies. I thrive in collaborative environments and enjoy working with diverse teams to develop impactful solutions that drive real results.
-
+#### 👁️ Profile Views  
+![](https://komarev.com/ghpvc/?username=tecknosap&label=PROFILE+VIEWS)
 
 ---
 
-## 🔥 Core Expertise  
-
-1️⃣ Cloud Architecture & Infrastructure – Designing scalable, secure Azure solutions with best practices in networking, identity, and governance     
-2️⃣ DevOps & Automation – Implementing CI/CD pipelines, IaC (Terraform, Bicep, ARM), Kubernetes, and policy-driven automation    
-3️⃣  Security & Compliance – Microsoft Defender for Cloud, Azure Sentinel, Microsoft Entra ID, Key Vault, Azure Policies    
-4️⃣  Monitoring & Optimization – Advanced skills in Azure Monitor, Log Analytics, and cost management      
-
----
-
-## 🛠️ Key Projects  
-
-**Enterprise-Grade AKS Pipeline – CI/CD for Kubernetes**  
-🔗 [GitHub Repo](https://github.com/tecknosap/enterprise-grade-aks-pipeline)  
-💡 **Tech**: AKS, Terraform, Azure DevOps, Docker, Application Gateway  
-📈 **Impact**: Reduced deployment time by **60%**, enhancing release efficiency and infrastructure resilience.
-
-**Azure Hub-Spoke Network – Multi-VNet Design**  
-🔗 [GitHub Repo](https://github.com/tecknosap/Azure-Hub-Spoke-Network)  
-💡 **Tech**: VNet, Firewall, Route Tables, Peering  
-📈 **Impact**: Decreased security risks by **40%** and improved network performance and latency.
-
-**Multi-Region Autoscaling Pipeline – High Availability**  
-🔗 [GitHub Repo](https://github.com/tecknosap/azure-vmss-lb-ci-cd-pipeline)  
-💡 **Tech**: VM Scale Sets, Load Balancer, Terraform, NSGs, Azure DevOps Pipelines  
-📈 **Impact**: Delivered **99.99% uptime SLA**, automated provisioning, and reduced deployment time by **50%**.
-
-**Secure 3-Tier Web App Deployment – Cloud Security**  
-🔗 [GitHub Repo](https://github.com/tecknosap/azure-devops-ci-cd)  
-💡 **Tech**: App Service, Azure SQL, Application Insights, Terraform, Key Vault  
-📈 **Impact**: Cut manual errors by **35%**, strengthened security using Key Vault, and enhanced monitoring.
-
-**Zero-Trust Storage & VM Security – No Public IP Exposure**  
-🔗 [GitHub Repo](https://github.com/tecknosap/Azure-storage-service-endpoint)  
-💡 **Tech**: Bastion, Windows VM, Storage Accounts, Service Endpoints, Terraform  
-📈 **Impact**: Removed public IP exposure, secured storage with private endpoints, and enforced a zero-trust model.
-
----
-
-## 🏆 Certifications & Achievements  
-
-✔️ **Microsoft Certified: Azure Security Engineer (AZ-500)**  
-✔️ **Microsoft Certified: Azure Administrator (AZ-104)**  
-✔️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-
----
-
-## 🛠️ Technologies & Tools  
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin-right: 12px;"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-</p>
-
----
-
-## 🔗 Connect & Collaborate  
-
-📌 I share insights on **Azure DevOps, cloud automation, and security**—let’s connect!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahadahmed05)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/tecknosap)  
-📧 **Email:** tecknosap@gmail.com  
-
----
-
-## 📊 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecknosap&layout=compact" width="500px"/>
+#### 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadmohamed05) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahad@gocloudops.co.uk)  
 
 
+#### 💻 Tech Stack  
+Here are the core technologies I work with:  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
- <!-- ![](https://komarev.com/ghpvc/?username=tecknosap) -->
+#### 📊 GitHub Stats  
+Here’s an overview of my GitHub contributions, streaks, and most used languages:  
+![](https://github-readme-stats.vercel.app/api?username=tecknosap&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=tecknosap&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tecknosap&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
+#### 🏆 GitHub Trophies  
+My GitHub achievements so far:  
+![](https://github-profile-trophy.vercel.app/?username=tecknosap&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
+---  
+[![](https://visitcount.itsvg.in/api?id=tecknosap&icon=0&color=0)](https://visitcount.itsvg.in)
