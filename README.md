@@ -25,7 +25,7 @@ Passionate about cloud technology, mentoring, and solving engineering challenges
 
 <h5 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: bold;">🌐 Socials</h5>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadmohamed05) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahad@gocloudops.co.uk)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadmohamed05)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahad@gocloudops.co.uk)  
 
 ---
 
