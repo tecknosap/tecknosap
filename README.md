@@ -19,6 +19,7 @@ Passionate about cloud technology, mentoring, and solving engineering challenges
 ---
 
 <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; font-weight: bold;">  
+  
 ![](https://komarev.com/ghpvc/?username=tecknosap&label=Profile+Views)
 </p>
 
