@@ -54,7 +54,7 @@ Here are the core technologies I work with:
 <h5 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: bold;">📊 GitHub Stats</h5>
 
 <p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-size: 12px;">
-Here’s an overview of my GitHub contributions, streaks, and most used languages:
+Here’s an overview of my GitHub contributions, and streaks:
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=tecknosap&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=tecknosap&theme=dark&hide_border=false) 
