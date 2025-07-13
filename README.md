@@ -34,3 +34,6 @@ My GitHub achievements so far:
 ![](https://github-profile-trophy.vercel.app/?username=tecknosap&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
 ---  
+
+
+Thanks for checking out my profile!, I look forward to partnering on powerful cloud projects that deliver real value.
