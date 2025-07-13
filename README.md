@@ -1,4 +1,5 @@
 #### 💫 About Me  
+
 Hi 👋 I’m Mahad — DevOps & Cloud Engineer.
 
 Thoughts, views, and opinions expressed on this page are solely my own and do not reflect those of my employers.
@@ -9,10 +10,7 @@ Passionate about cloud technology, mentoring, and solving engineering challenges
   
 ---
 
-##### 👁️ Profile Views  
-![](https://komarev.com/ghpvc/?username=tecknosap&label=PROFILE+VIEWS)
-
----
+![](https://komarev.com/ghpvc/?username=tecknosap&label=Profile+Views)
 
 ##### 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadmohamed05) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahad@gocloudops.co.uk)  
