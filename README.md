@@ -51,6 +51,41 @@ Here are the core technologies I work with:
 
 ---
 
+
+<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: bold;">📂 Featured Projects</h3>
+
+<ol style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-size: 14px; padding-left: 20px; line-height: 1.6; color: #0078D7;">
+  <li style="margin-bottom: 8px;">
+    <strong>3-Tier Web App on Azure:</strong>
+    <a href="https://github.com/tecknosap/azure-3tier-appservice" target="_blank" rel="noopener noreferrer" style="margin-left: 5px;">
+      github.com/tecknosap/azure-3tier-appservice
+    </a>
+  </li>
+  <li style="margin-bottom: 8px;">
+    <strong>Global hub and spoke:</strong>
+    <a href="https://github.com/tecknosap/azure-secure-hub-spoke" target="_blank" rel="noopener noreferrer" style="margin-left: 5px;">
+      github.com/tecknosap/azure-secure-hub-spoke
+    </a>
+  </li>
+  <li style="margin-bottom: 8px;">
+    <strong>azure-vmss-lb-ci-cd:</strong>
+    <a href="https://github.com/tecknosap/azure-vmss-lb-ci-cd" target="_blank" rel="noopener noreferrer" style="margin-left: 5px;">
+      github.com/tecknosap/azure-vmss-lb-ci-cd
+    </a>
+  </li>
+  <li>
+    <strong>modular-aks-terraform:</strong>
+    <a href="https://github.com/tecknosap/modular-aks-terraform" target="_blank" rel="noopener noreferrer" style="margin-left: 5px;">
+      github.com/tecknosap/modular-aks-terraform
+    </a>
+  </li>
+</ol>
+
+
+
+
+
+
 <h5 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: bold;">📊 GitHub Stats</h5>
 
 <p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-size: 12px;">
