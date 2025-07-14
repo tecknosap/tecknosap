@@ -72,7 +72,7 @@ Here’s an overview of my GitHub contributions, and streaks:
 
 ![](https://github-readme-stats.vercel.app/api?username=tecknosap&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=tecknosap&theme=dark&hide_border=false) 
 
----
+<!-- ---
 
 <h5 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; font-weight: bold;">🏆 GitHub Trophies</h5>
 
@@ -82,7 +82,8 @@ My GitHub achievements so far:
 
 ![](https://github-profile-trophy.vercel.app/?username=tecknosap&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
----
+----->
+
 #### Thanks for visiting!
 <p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-size: 11px;">
 Let’s collaborate on impactful cloud projects that deliver real value.
