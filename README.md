@@ -1,7 +1,7 @@
 <h4 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20px; font-weight: bold;">💫 About Me</h4>
 
 <p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-size: 11px;">
-Hi 👋 I’m Mahad — DevOps & Cloud Engineer.
+Hi 👋 I’m Mahad , DevOps & Cloud Engineer.
 </p>
 
 <p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-size: 12px;">
