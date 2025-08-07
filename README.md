@@ -9,7 +9,7 @@ Thoughts, views, and opinions expressed on this page are solely my own and do no
 </p>
 
 <p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-size: 12px;">
-I automate infrastructure, optimise pipelines, and accelerate deployments with security and reliability at the core. Experienced in Azure and AWS, with hands-on skills in Terraform, Docker, Kubernetes, and cloud-native tools for scalable solutions.
+I automate infrastructure, optimise pipelines, and accelerate deployments with security and reliability at the core. Experienced in Azure  with hands-on skills in Terraform, Docker, Kubernetes, and cloud-native tools for scalable solutions.
 </p>
 
 <p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-size: 12px;">
